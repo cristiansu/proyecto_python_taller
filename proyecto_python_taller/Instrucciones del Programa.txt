@@ -1,0 +1,9 @@
+Instrucciones del Programa - Taller Python - Cristian Saavedra
+Objetivo del Programa
+El programa permite ver las variaciones de la Tasa Máxima Convencional informada por la SBIF
+. Solicita como parámetro la fecha de incio y fin de la consulta
+Con los parámetros ingresados entregará cuál fue el promedio de la TMC y cuál fue su desviación estándar en el período consultado
+Paso a paso
+1. Ingresar fecha de inicio con formato año(aaaa)-mes(mm)
+2. Ingresar fecha de final con formato año(aaaa)-mes(mm)
+3. Con las fechas del período el programa devolverá el promedio y desviación de la TMC

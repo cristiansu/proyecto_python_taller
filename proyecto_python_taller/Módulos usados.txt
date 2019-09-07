@@ -1,0 +1,6 @@
+Módulos Usados
+
+Para este programa se importaron los siguientes módulos:
+
+1. Statistics: con el objetivo de calcular promedio y desviación estándar de la TMC
+2. Literal_eval: con el objetivo de transformar el string en un diccionario
